@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\dell\desktop\algoritmos 2024 (1)\pilaestaticafinal\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1712681601 source:c:\users\dell\desktop\algoritmos 2024 (1)\pilaestaticafinal\pilaestatica.c
+	"PilaEstatica.h"
+
+1712681542 c:\users\dell\desktop\algoritmos 2024 (1)\pilaestaticafinal\pilaestatica.h
+	<string.h>
+
