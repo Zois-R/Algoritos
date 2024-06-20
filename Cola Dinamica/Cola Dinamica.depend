@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\dell\desktop\facu 2024\algoritmos 2024\ejercicios cola\cola dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1714492357 source:c:\users\dell\desktop\facu 2024\algoritmos 2024\ejercicios cola\cola dinamica\cola dinamica.c
+	"Cola Dinamica.h"
+
+1714492377 c:\users\dell\desktop\facu 2024\algoritmos 2024\ejercicios cola\cola dinamica\cola dinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
