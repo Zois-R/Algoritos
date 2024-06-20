@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\dell\desktop\algoritmos 2024 (1)\piladinamicafinal\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1712696866 source:c:\users\dell\desktop\algoritmos 2024 (1)\piladinamicafinal\piladinamica.c
+	"PilaDinamica.h"
+
+1712696935 c:\users\dell\desktop\algoritmos 2024 (1)\piladinamicafinal\piladinamica.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
