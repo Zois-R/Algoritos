@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1716134431 source:c:\users\dell\desktop\facu 2024\algoritmos 2024\listasimple\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1716138925 source:c:\users\dell\desktop\facu 2024\algoritmos 2024\listasimple\lista.c
+	"Lista.h"
+
+1716138919 c:\users\dell\desktop\facu 2024\algoritmos 2024\listasimple\lista.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
