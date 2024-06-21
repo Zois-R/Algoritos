@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1717195725 source:c:\users\dell\desktop\facu 2024\algoritmos\listadoble\listadoble.c
+	"ListaDoble.h"
+
+1717195725 c:\users\dell\desktop\facu 2024\algoritmos\listadoble\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717195613 source:c:\users\dell\desktop\facu 2024\algoritmos\listadoble\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDoble.h"
+
